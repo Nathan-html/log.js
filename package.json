@@ -1,6 +1,6 @@
 {
   "name": "@nathan-flacher/log.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": " Little module Node.js to testing and learning how to deploy Nodejs module on npmjs. ",
   "main": "src/index.js",
   "scripts": {
