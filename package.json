@@ -1,0 +1,24 @@
+{
+  "name": "@nathan-flacher/log.js",
+  "version": "0.0.1",
+  "description": " Little module Node.js to testing and learning how to deploy Nodejs module on npmjs. ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-html/log.js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "npm-module"
+  ],
+  "author": "Nathan Flacher <contact@nathan-flacher.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nathan-html/log.js/issues"
+  },
+  "homepage": "https://github.com/Nathan-html/log.js#readme"
+}
