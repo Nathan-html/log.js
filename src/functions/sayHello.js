@@ -4,4 +4,4 @@ function sayHello () {
     console.log('====================================');
 }
 
-module.export = sayHello()
+module.exports.sayHello = sayHello;
